@@ -1,0 +1,10 @@
+﻿  utils .cpp
+  SteeringBehavior.cpp
+  SDL_SimpleApp.cpp
+  SceneKinematicSeek .cpp
+  SceneKinematicFlee.cpp
+  main.cpp
+  Agent.cpp
+  Generating Code...
+  SDL_Steering_Behaviors.vcxproj -> C:\Users\odarriba\Desktop\InteligenciaArtificial_REPO\InteligenciaArtificial\SDL_Steering_Behaviors\\bin\SDL_Steering_Behaviors.exe
+  SDL_Steering_Behaviors.vcxproj -> C:\Users\odarriba\Desktop\InteligenciaArtificial_REPO\InteligenciaArtificial\SDL_Steering_Behaviors\\bin\SDL_Steering_Behaviors.pdb (Partial PDB)
